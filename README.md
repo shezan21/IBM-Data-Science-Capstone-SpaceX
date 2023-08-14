@@ -17,7 +17,7 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 Classification accuracy - number of correct prediction divided by the total number of prediction defined as:
 $$Accuracy = \frac{TP+TN}{TP+FP+TN+FN}$$
 
-![Confusion matrix](https://github.com/shezan21/IBM-Data-Science-Capstone-SpaceX/blob/main/Plots/Confusion%20matrix.PNG)
+![Confusion matrix]<img align="Confusion matrix" alt="Confusion matrix" width="400" src="Confusion matrix.png">
 
 
 ## Deliverables
