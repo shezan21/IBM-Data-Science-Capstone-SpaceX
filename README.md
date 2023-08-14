@@ -19,6 +19,7 @@ $$Accuracy = \frac{TP+TN}{TP+FP+TN+FN}$$
 
 ![Confusion matrix](https://github.com/shezan21/IBM-Data-Science-Capstone-SpaceX/blob/main/Plots/Confusion%20matrix.PNG)
 
+
 ## Deliverables
 - Accurate predictive algorithms
 - Business case report to stakeholders
